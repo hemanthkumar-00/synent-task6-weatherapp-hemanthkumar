@@ -1,5 +1,8 @@
 # Weather Application using API Integration
 
+# Live Demo
+ https://hemanthkumar-00.github.io/synent-task6-weatherapp-hemanthkumar/
+ 
 ## Objective
 
 To develop a weather application that fetches and displays real-time weather information using a public API.
